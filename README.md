@@ -4,7 +4,7 @@
   </p>
   
   <h1>osTicket - Prerequisites and Installation</h1>
-  Setting Up osTicket on Azure Virtual Machine (Windows 10) This guide will walk you through creating an Azure VM and installing osTicket on it.<br />
+  Setting Up osTicket on Azure Virtual Machine (Windows 10) This guide will walk you through the installation of osTicket<br />
   
   <h2>Before you start:</h2>
   
